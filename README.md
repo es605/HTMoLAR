@@ -11,9 +11,9 @@ from any computing device equipped with a camera and an Internet connection.
 The web-based viewer can also be employed for the semi-automatic animation of reaction pathways by linear interpolation of atom coordinates between consecutive computed reaction steps.
 <br>
 
-<a href=https://es605.github.io/Staudinger/Viewer target=&quot;_blank&quot;><strong>DEMO for computed structures</strong></a>
+<a href=https://leyscigateway.ch.cam.ac.uk/staudinger/viewer.html target=&quot;_blank&quot;><strong>DEMO for computed structures</strong></a>
 
-<a href=https://es605.github.io/Staudinger/ target=&quot;_blank&quot;><strong>DEMO for animated reaction pathways</strong></a>
+<a href=https://leyscigateway.ch.cam.ac.uk/staudinger/index.html target=&quot;_blank&quot;><strong>DEMO for animated reaction pathways</strong></a>
 
 <br>
 <h2>Screen Captures</h2>
