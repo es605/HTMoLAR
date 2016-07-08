@@ -1,7 +1,7 @@
 <h1>HTMoL &#150; AR plugin</h1>
 
 <br>
-&emsp; <b>HTMoL &#150; AR plugin</b> is an initiative from <b>Eric P. Sliwinski</b>, <b>Mikhail A. Kabeshov</b> and <a href=http://www.leygroup.ch.cam.ac.uk/steve-ley target=&quot;_blank&quot;><strong>Steven V. Ley</strong></a>
+&emsp; <b>HTMoL &#150; AR plugin</b> is an initiative from <a href=http://www.leygroup.ch.cam.ac.uk/group-members/postdoctoral-research-associates-2/dr-eric-sliwinski target=&quot;_blank&quot;><strong>Eric P. Sliwinski</strong></a>, <a href=http://www.leygroup.ch.cam.ac.uk/group-members/postdoctoral-research-associates-2/dr-mikhail-kabeshov target=&quot;_blank&quot;><strong>Mikhail A. Kabeshov</strong></a> and <a href=http://www.leygroup.ch.cam.ac.uk/steve-ley target=&quot;_blank&quot;><strong>Steven V. Ley</strong></a>
 for the web-based visualisation, analysis and report of computed structures or crystallographic data.
 
 Originally developed as a part of the <a href=http://www.leygroup.ch.cam.ac.uk/research/science-gateway target=&quot;_blank&quot;><b>Organic Chemistry Science Gateway</b></a>,
@@ -139,6 +139,7 @@ For better performance, we would recommend to use that feature in a darkened roo
 <br>
 
 <h2>Acknowledgements</h2>
++   <a href=http://www.leygroup.ch.cam.ac.uk/group-members/phd-students/daniel-fitzpatrick target=&quot;_blank&quot;> Daniel Fitzpatrick </a>
 +   <a href=http://www.leygroup.ch.cam.ac.uk/group-members/support-staff/dr-richard-turner target=&quot;_blank&quot;> Dr Richard Turner </a>
 +   <a href=https://github.com/mrdoob target=&quot;_blank&quot;> Mr Doob </a>, <a href=http://threejs.org target=&quot;_blank&quot;> THREE.js </a>
 +   <a href=http://cg.skeelogy.com target=&quot;_blank&quot;> Skeel Lee </a>
