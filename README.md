@@ -132,7 +132,7 @@ Upon termination of the video stream, when applicable, the main window should up
 </p>
 <br>
 
-If you wish to try the Holographic Display, you will need a pyramidal mirror made from a semi-reflective transparent material. This mirror can be constructed, for example, by cutting <a href=http://es605.github.io/Staudinger/Markers/TemplateA4.pdf target=&quot;_blank&quot;> this<strong> template</strong></a> into a thick (240 &#8212; 600 &#181;m) acetate sheet.
+If you wish to try the Holographic Display, you will need a pyramidal mirror made from a semi-reflective transparent material. This mirror can be constructed, for example, by cutting <a href=https://leyscigateway.ch.cam.ac.uk/staudinger/Markers/TemplateA4.pdf target=&quot;_blank&quot;> this<strong> template</strong></a> into a thick (240 &#8212; 600 &#181;m) acetate sheet.
 
 For better performance, we would recommend to use that feature in a darkened room and to switch your web-browser to full-screen (by pressing F11).
 
