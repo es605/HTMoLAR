@@ -140,7 +140,7 @@ For better performance, we would recommend to use that feature in a darkened roo
 
 <h2>Acknowledgements</h2>
 +   <a href=http://www.leygroup.ch.cam.ac.uk/group-members/phd-students/daniel-fitzpatrick target=&quot;_blank&quot;> Daniel Fitzpatrick </a>
-+   <a href=http://www.leygroup.ch.cam.ac.uk/group-members/support-staff/dr-richard-turner target=&quot;_blank&quot;> Dr Richard Turner </a>
++   <a href=http://www.ch.cam.ac.uk/person/rmt35 target=&quot;_blank&quot;> Dr Richard Turner </a>
 +   <a href=https://github.com/mrdoob target=&quot;_blank&quot;> Mr Doob </a>, <a href=http://threejs.org target=&quot;_blank&quot;> THREE.js </a>
 +   <a href=http://cg.skeelogy.com target=&quot;_blank&quot;> Skeel Lee </a>
 +   <a href=https://github.com/jcmellado target=&quot;_blank&quot;> Juan Mellado </a>
