@@ -28,7 +28,6 @@ The web-based viewer can also be employed for the semi-automatic animation of re
 </p>
 <br>
 <br>
-<br>
 <h2>Video Demonstration</h2>
 <p align="center">
     <a href="http://www.youtube.com/watch?feature=player_embedded&v=QWY7UikT42g" target="_blank"><img src="http://img.youtube.com/vi/QWY7UikT42g/0.jpg" width="480" height="360" border="1" /></a>
