@@ -117,7 +117,9 @@ The camera position (rotation, zoom) can also be controlled <i>via</i> a Leap Mo
 <br>
 <h2>Augmented Reality Controls</h2>
 > <strong>N.B.</strong>   This feature is not available on Apple iOS devices at the moment, as the <a href=http://caniuse.com/#feat=stream target=&quot;_blank&quot;><strong>getUserMedia() API</strong></a> is not supported.
+
 <br>
+
 <p align="center">
     <img src="http://es605.github.io/Staudinger/svg/AR.svg" alt="http://es605.github.io/Staudinger/Pictures/AR.png">
 </p>
