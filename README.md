@@ -75,17 +75,17 @@ You can reset the view to its default state by using this button.
 You can toggle hydrogen visibility at any time by using the Hide/Show Hydrogens button.
 
 <h5>&bull; Monitor</h5>
-> **N.B.**   This feature is only available when the animation is paused.
+> <strong>N.B.<strong>   This feature is only available when the animation is paused.
 <br>
 This feature allows you to monitor structure parameters such as a single atom coordinates, interatomic distances, angles or dihedral angles for any specific structure, by clicking on the atoms.
 
 <h5>&bull; Save XYZ</h5>
-> **N.B.**   This feature is only available on desktops and laptops, when the animation is paused.
+> <strong>N.B.<strong>   This feature is only available on desktops and laptops, when the animation is paused.
 <br>
 This feature allows you to save the Cartesian coordinates of all visible atoms for a specific structure as an *.xyz file.
 
 <h5>&bull; Center on Atom</h5>
-> **N.B.**   This feature is only available on desktops and laptops, when the animation is paused.
+> <strong>N.B.<strong>   This feature is only available on desktops and laptops, when the animation is paused.
 <br>
 You can center the 3D-molecular structure on a specific atom by right-clicking on it.
 
@@ -95,7 +95,7 @@ When applicable, you can access the 3D representation of other computed structur
 
 <br>
 <h2>Keyboard Shortcuts</h2>
-> **N.B.**   This feature is only available on desktops and laptops.
+> <strong>N.B.<strong>   This feature is only available on desktops and laptops.
 <br>
 <p align="center">
     <img src="http://es605.github.io/Staudinger/svg/shortcutsHolo.svg" alt="http://es605.github.io/Staudinger/Pictures/shortcutsHolo.png">
@@ -105,7 +105,7 @@ Keyboard event listener was also implemented, providing basic shortcuts for some
 
 <br>
 <h2>Leap Motion&#153 Controls</h2>
-> **N.B.**   This feature is only available on desktops and laptops.
+> <strong>N.B.<strong>   This feature is only available on desktops and laptops.
 <br>
 <p align="center">
     <img src="http://es605.github.io/HTMoLAR/LeapHandNEW.png">
@@ -115,7 +115,7 @@ The camera position (rotation, zoom) can also be controlled <i>via</i> a Leap Mo
 
 <br>
 <h2>Augmented Reality Controls</h2>
-> **N.B.**   This feature is not available on Apple iOS devices at the moment, as the <a href=http://caniuse.com/#feat=stream target=&quot;_blank&quot;><strong>getUserMedia() API</strong></a> is not supported.
+> <strong>N.B.<strong>   This feature is not available on Apple iOS devices at the moment, as the <a href=http://caniuse.com/#feat=stream target=&quot;_blank&quot;><strong>getUserMedia() API</strong></a> is not supported.
 <br>
 <p align="center">
     <img src="http://es605.github.io/Staudinger/svg/AR.svg" alt="http://es605.github.io/Staudinger/Pictures/AR.png">
@@ -128,7 +128,7 @@ Upon termination of the video stream, when applicable, the main window should up
 
 <br>
 <h2>Holographic Display</h2>
-> **N.B.**   Zoom controls are disabled for this feature.
+> <strong>N.B.<strong>   Zoom controls are disabled for this feature.
 <br>
 <br>
 
