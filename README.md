@@ -36,7 +36,7 @@ The web-based viewer can also be employed for the semi-automatic animation of re
 
 <h2>Browser Support</h2>
 
-You will need a <a href=https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5 target=&quot;_blank&quot;><strong>HTML5</strong></a>, <a href=http://caniuse.com/#search=WebGL target=&quot;_blank&quot;><strong>WebGL</strong></a>, <a href=http://caniuse.com/#feat=stream target=&quot;_blank&quot;><strong>getUserMedia()</strong></a> compatible web browsing software. We would therefore recommend one of the latest version of Google Chrome&#8482; or Mozilla FireFox&#8482; (recommended).
+You will need a [**HTML5**](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5), [**WebGL**](http://caniuse.com/#search=WebGL), [**getUserMedia()**](http://caniuse.com/#feat=stream) compatible web browsing software. We would therefore recommend one of the latest version of Google Chrome&#8482; or Mozilla FireFox&#8482; (recommended).
 
 <br>
 <h2>Touch Controls</h2>
