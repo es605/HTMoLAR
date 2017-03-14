@@ -95,6 +95,7 @@ When applicable, you can access the 3D representation of other computed structur
 <i>via</i> the  <strong>Augmented Reality Controls</strong> described below.
 
 <br>
+<br>
 <h2>Keyboard Shortcuts</h2>
 > <strong>N.B.</strong>   This feature is only available on desktops and laptops.
 <br>
@@ -114,6 +115,7 @@ Keyboard event listener was also implemented, providing basic shortcuts for some
 <br>
 The camera position (rotation, zoom) can also be controlled <i>via</i> a Leap Motion&#153; sensor device. Just wave your hand over the device to begin moving the camera around the molecular structure. Zoom controls are also accessible by pinching your index and thumb fingers.
 
+<br>
 <br>
 <h2>Augmented Reality Controls</h2>
 > <strong>N.B.</strong>   This feature is not available on Apple iOS devices at the moment, as the <a href=http://caniuse.com/#feat=stream target=&quot;_blank&quot;><strong>getUserMedia() API</strong></a> is not supported.
