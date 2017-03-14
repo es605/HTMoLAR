@@ -19,10 +19,10 @@ The web-based viewer can also be employed for the semi-automatic animation of re
 <h2>Screen Captures</h2>
 
 <p align="center">
-
     <img src="http://es605.github.io/HTMoLAR/SC013.png">
-
+</p>
     <br>
+<p align="center">
     <img src="http://es605.github.io/HTMoLAR/AR.png">
     <br>
 </p>
@@ -144,24 +144,39 @@ For better performance, we would recommend to use that feature in a darkened roo
 <br>
 
 <h2>Publications</h2>
-+   <a href=https://www.thieme.de/en/thieme-chemistry/augmented-reality-as-an-enabling-tool-in-organic-chemistry-104150.htm target=&quot;_blank&quot;>  Augmented Reality as an Enabling Tool in Organic Chemistry  </a>
-+   <a href=https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0035-1562579.pdf target=&quot;_blank&quot;>  Combination of Enabling Technologies to Improve and Describe the Stereoselectivity of Wolff–Staudinger Cascade Reaction</a>
+
+* <a href=https://www.thieme.de/en/thieme-chemistry/augmented-reality-as-an-enabling-tool-in-organic-chemistry-104150.htm target=&quot;_blank&quot;>  Augmented Reality as an Enabling Tool in Organic Chemistry</a>
+
+* <a href=https://www.thieme-connect.com/products/ejournals/pdf/10.1055/s-0035-1562579.pdf target=&quot;_blank&quot;>  Combination of Enabling Technologies to Improve and Describe the Stereoselectivity of Wolff–Staudinger Cascade Reaction</a>
 
 <br>
 
 <h2>Acknowledgements</h2>
-+   <a href=http://www.leygroup.ch.cam.ac.uk/group-members/phd-students/daniel-fitzpatrick target=&quot;_blank&quot;> Daniel Fitzpatrick </a>
-+   <a href=http://www.ch.cam.ac.uk/person/rmt35 target=&quot;_blank&quot;> Dr Richard Turner </a>
-+   <a href=https://github.com/mrdoob target=&quot;_blank&quot;> Mr Doob </a>, <a href=http://threejs.org target=&quot;_blank&quot;> THREE.js </a>
-+   <a href=http://cg.skeelogy.com target=&quot;_blank&quot;> Skeel Lee </a>
-+   <a href=https://github.com/jcmellado target=&quot;_blank&quot;> Juan Mellado </a>
-+   <a href=https://stemkoski.github.io/Three.js/ target=&quot;_blank&quot;> Lee Stemkoski </a>
-+   <a href=https://github.com/leongersen target=&quot;_blank&quot;> Leon Gersen </a>
-+   <a href=http://github.com/t4t5/ target=&quot;_blank&quot;> Tristan Edwards </a>
-+   <a href=https://github.com/eligrey/ target=&quot;_blank&quot;> Eli Grey </a>
-+   <a href=http://greensock.com target=&quot;_blank&quot;> GreenSock </a>
-+   <a href=http://github.com/leapmotion/ target=&quot;_blank&quot;> LeapJS </a>
-+   <a href=http://stackoverflow.com/ target=&quot;_blank&quot;> Stackoverflow </a>
+
+*   <a href=http://www.leygroup.ch.cam.ac.uk/group-members/phd-students/daniel-fitzpatrick target=&quot;_blank&quot;> Daniel Fitzpatrick </a>
+
+*   <a href=http://www.ch.cam.ac.uk/person/rmt35 target=&quot;_blank&quot;> Dr Richard Turner </a>
+
+*   <a href=https://github.com/mrdoob target=&quot;_blank&quot;> Mr Doob </a>, <a href=http://threejs.org target=&quot;_blank&quot;> THREE.js </a>
+
+*   <a href=http://cg.skeelogy.com target=&quot;_blank&quot;> Skeel Lee </a>
+
+*   <a href=https://github.com/jcmellado target=&quot;_blank&quot;> Juan Mellado </a>
+
+*   <a href=https://stemkoski.github.io/Three.js/ target=&quot;_blank&quot;> Lee Stemkoski </a>
+
+*   <a href=https://github.com/leongersen target=&quot;_blank&quot;> Leon Gersen </a>
+
+*   <a href=http://github.com/t4t5/ target=&quot;_blank&quot;> Tristan Edwards </a>
+
+*   <a href=https://github.com/eligrey/ target=&quot;_blank&quot;> Eli Grey </a>
+
+*   <a href=http://greensock.com target=&quot;_blank&quot;> GreenSock </a>
+
+*   <a href=http://github.com/leapmotion/ target=&quot;_blank&quot;> LeapJS </a>
+
+*   <a href=http://stackoverflow.com/ target=&quot;_blank&quot;> Stackoverflow </a>
+
 
 <p align="center">
     <span>es605@cam.ac.uk</span> &bull; 2015 &#150; 2016
