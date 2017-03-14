@@ -76,17 +76,17 @@ You can toggle hydrogen visibility at any time by using the Hide/Show Hydrogens 
 
 <h5>&bull; Monitor</h5>
 > <strong>N.B.</strong>   This feature is only available when the animation is paused.
-
+<br>
 This feature allows you to monitor structure parameters such as a single atom coordinates, interatomic distances, angles or dihedral angles for any specific structure, by clicking on the atoms.
 
 <h5>&bull; Save XYZ</h5>
 > <strong>N.B.</strong>   This feature is only available on desktops and laptops, when the animation is paused.
-
+<br>
 This feature allows you to save the Cartesian coordinates of all visible atoms for a specific structure as an *.xyz file.
 
 <h5>&bull; Center on Atom</h5>
 > <strong>N.B.</strong>   This feature is only available on desktops and laptops, when the animation is paused.
-
+<br>
 You can center the 3D-molecular structure on a specific atom by right-clicking on it.
 
 <h5>&bull; Navigate</h5>
@@ -96,7 +96,7 @@ When applicable, you can access the 3D representation of other computed structur
 <br>
 <h2>Keyboard Shortcuts</h2>
 > <strong>N.B.</strong>   This feature is only available on desktops and laptops.
-
+<br>
 <p align="center">
     <img src="http://es605.github.io/Staudinger/svg/shortcutsHolo.svg" alt="http://es605.github.io/Staudinger/Pictures/shortcutsHolo.png">
 </p>
@@ -106,7 +106,7 @@ Keyboard event listener was also implemented, providing basic shortcuts for some
 <br>
 <h2>Leap Motion&#153 Controls</h2>
 > <strong>N.B.</strong>   This feature is only available on desktops and laptops.
-
+<br>
 <p align="center">
     <img src="http://es605.github.io/HTMoLAR/LeapHandNEW.png">
 </p>
@@ -116,7 +116,7 @@ The camera position (rotation, zoom) can also be controlled <i>via</i> a Leap Mo
 <br>
 <h2>Augmented Reality Controls</h2>
 > <strong>N.B.</strong>   This feature is not available on Apple iOS devices at the moment, as the <a href=http://caniuse.com/#feat=stream target=&quot;_blank&quot;><strong>getUserMedia() API</strong></a> is not supported.
-
+<br>
 <p align="center">
     <img src="http://es605.github.io/Staudinger/svg/AR.svg" alt="http://es605.github.io/Staudinger/Pictures/AR.png">
 </p>
@@ -129,7 +129,7 @@ Upon termination of the video stream, when applicable, the main window should up
 <br>
 <h2>Holographic Display</h2>
 > <strong>N.B.</strong>   Zoom controls are disabled for this feature.
-
+<br>
 <br>
 
 <p align="center">
@@ -143,7 +143,7 @@ For better performance, we would recommend to use that feature in a darkened roo
 
 <br>
 
-<h2>Publications</h2>
+<h2>Publication</h2>
 
 * <a href=https://www.thieme.de/en/thieme-chemistry/augmented-reality-as-an-enabling-tool-in-organic-chemistry-104150.htm target=&quot;_blank&quot;>  Augmented Reality as an Enabling Tool in Organic Chemistry</a>
 
