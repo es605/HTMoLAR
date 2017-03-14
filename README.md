@@ -128,7 +128,7 @@ Upon termination of the video stream, when applicable, the main window should up
 
 <br>
 <h2>Holographic Display</h2>
-> <strong>N.B.</strong>   Zoom controls are disabled for this feature.
+><strong>N.B.</strong>   Zoom controls are disabled for this feature.
 <br>
 <br>
 
