@@ -148,7 +148,7 @@ For better performance, we would recommend to use that feature in a darkened roo
 
 <br>
 
-<h2>Publication</h2>
+<h2>Publications</h2>
 
 * <a href=https://www.thieme.de/en/thieme-chemistry/augmented-reality-as-an-enabling-tool-in-organic-chemistry-104150.htm target=&quot;_blank&quot;>  Augmented Reality as an Enabling Tool in Organic Chemistry</a>
 
