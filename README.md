@@ -150,9 +150,14 @@ For better performance, we would recommend to use that feature in a darkened roo
 
 <h2>Publications</h2>
 
+* <a href=https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0035-1562579 target=&quot;_blank&quot;>  Combination of Enabling Technologies to Improve and Describe the Stereoselectivity of Wolff–Staudinger Cascade Reaction</a>
+
 * <a href=https://www.thieme.de/en/thieme-chemistry/augmented-reality-as-an-enabling-tool-in-organic-chemistry-104150.htm target=&quot;_blank&quot;>  Augmented Reality as an Enabling Tool in Organic Chemistry</a>
 
-* <a href=https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0035-1562579 target=&quot;_blank&quot;>  Combination of Enabling Technologies to Improve and Describe the Stereoselectivity of Wolff–Staudinger Cascade Reaction</a>
+* <a href=http://www.ch.imperial.ac.uk/rzepa/blog/?p=16710 target=&quot;_blank&quot;> Journal innovations – the next step is augmented reality?</a>
+
+* [Journal innovations – the next step is augmented reality?](http://www.ch.imperial.ac.uk/rzepa/blog/?p=16710)
+
 
 <br>
 
