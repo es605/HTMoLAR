@@ -12,19 +12,19 @@ from any computing device equipped with a camera and an Internet connection.
 The web-based viewer can also be employed for the semi-automatic animation of reaction pathways by linear interpolation of atom coordinates between consecutive computed reaction steps.
 <br>
 
-<a href=https://es605.github.io/Staudinger/redirect2viewer.html target=&quot;_blank&quot;><strong>DEMO for computed structures</strong></a>
+<a href=https://es605.bitbucket.io/Staudinger/redirect2viewer.html target=&quot;_blank&quot;><strong>DEMO for computed structures</strong></a>
 
-<a href=https://es605.github.io/Staudinger/redirect2index.html target=&quot;_blank&quot;><strong>DEMO for animated reaction pathways</strong></a>
+<a href=https://es605.bitbucket.io/Staudinger/redirect2index.html target=&quot;_blank&quot;><strong>DEMO for animated reaction pathways</strong></a>
 
 <br>
 <h2>Screen Captures</h2>
 
 <p align="center">
-    <img src="http://es605.github.io/HTMoLAR/SC013.png">
+    <img src="http://es605.bitbucket.io/HTMoLAR/SC013.png">
 </p>
     <br>
 <p align="center">
-    <img src="http://es605.github.io/HTMoLAR/AR.png">
+    <img src="http://es605.bitbucket.io/HTMoLAR/AR.png">
     <br>
 </p>
 <br>
@@ -43,27 +43,27 @@ You will need a [**HTML5**](https://developer.mozilla.org/en-US/docs/Web/Guide/H
 <h2>Touch Controls</h2>
 
 <p align="center">
-    <img src="http://es605.github.io/Staudinger/svg/touch.svg" alt="http://es605.github.io/Staudinger/Pictures/touch.png">
+    <img src="http://es605.bitbucket.io/Staudinger/svg/touch.svg" alt="http://es605.bitbucket.io/Staudinger/Pictures/touch.png">
 </p>
 
 <br>
 <h2>Mouse Controls</h2>
 
 <p align="center">
-    <img src="http://es605.github.io/Staudinger/svg/mouse01.svg" alt="http://es605.github.io/Staudinger/Pictures/mouse01.png">
+    <img src="http://es605.bitbucket.io/Staudinger/svg/mouse01.svg" alt="http://es605.bitbucket.io/Staudinger/Pictures/mouse01.png">
 </p>
 
 <h4>or</h4>
 
 <p align="center">
-    <img src="http://es605.github.io/Staudinger/svg/mouse02.svg" alt="http://es605.github.io/Staudinger/Pictures/mouse02.png">
+    <img src="http://es605.bitbucket.io/Staudinger/svg/mouse02.svg" alt="http://es605.bitbucket.io/Staudinger/Pictures/mouse02.png">
 </p>
 
 <br>
 <h2>Other Features</h2>
 
 <p align="center">
-    <img src="http://es605.github.io/Staudinger/Pictures/featuresHolo.png">
+    <img src="http://es605.bitbucket.io/Staudinger/Pictures/featuresHolo.png">
 </p>
 
 <h5>&bull; Play / Pause Animation</h5>
@@ -100,7 +100,7 @@ When applicable, you can access the 3D representation of other computed structur
 > <strong>N.B.</strong>   This feature is only available on desktops and laptops.
 <br>
 <p align="center">
-    <img src="http://es605.github.io/Staudinger/svg/shortcutsHolo.svg" alt="http://es605.github.io/Staudinger/Pictures/shortcutsHolo.png">
+    <img src="http://es605.bitbucket.io/Staudinger/svg/shortcutsHolo.svg" alt="http://es605.bitbucket.io/Staudinger/Pictures/shortcutsHolo.png">
 </p>
 
 Keyboard event listener was also implemented, providing basic shortcuts for some of the above features.
@@ -110,7 +110,7 @@ Keyboard event listener was also implemented, providing basic shortcuts for some
 > <strong>N.B.</strong>   This feature is only available on desktops and laptops.
 <br>
 <p align="center">
-    <img src="http://es605.github.io/HTMoLAR/LeapHandNEW.png">
+    <img src="http://es605.bitbucket.io/HTMoLAR/LeapHandNEW.png">
 </p>
 <br>
 The camera position (rotation, zoom) can also be controlled <i>via</i> a Leap Motion&#153; sensor device. Just wave your hand over the device to begin moving the camera around the molecular structure. Zoom controls are also accessible by pinching your index and thumb fingers.
@@ -123,7 +123,7 @@ The camera position (rotation, zoom) can also be controlled <i>via</i> a Leap Mo
 <br>
 
 <p align="center">
-    <img src="http://es605.github.io/Staudinger/svg/AR.svg" alt="http://es605.github.io/Staudinger/Pictures/AR.png">
+    <img src="http://es605.bitbucket.io/Staudinger/svg/AR.svg" alt="http://es605.bitbucket.io/Staudinger/Pictures/AR.png">
 </p>
 
 If you wish to try Augmented Reality controls, you will need a good quality printing of the provided <strong>AR</strong> marker, a good camera (with autofocus) and to allow the camera request.
