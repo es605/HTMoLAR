@@ -156,6 +156,8 @@ For better performance, we would recommend to use that feature in a darkened roo
 
 * [Journal innovations – the next step is augmented reality?](http://www.ch.imperial.ac.uk/rzepa/blog/?p=16710)
 
+* [Chem@Cam Issue 55, Summer 2017](http://www.ch.cam.ac.uk/files/chematcam/Chem%40CAM%2055%20webstite.pdf)
+
 
 <br>
 
