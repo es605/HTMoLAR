@@ -158,6 +158,7 @@ For better performance, we would recommend to use that feature in a darkened roo
 
 * [Chem@Cam Issue 55, Summer 2017](http://www.ch.cam.ac.uk/files/chematcam/Chem%40CAM%2055%20webstite.pdf)
 
+* [Organic Chemistry Portal](http://www.organic-chemistry.org/abstracts/lit5/610.shtm)
 
 <br>
 
