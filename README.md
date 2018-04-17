@@ -190,5 +190,5 @@ For better performance, we would recommend to use that feature in a darkened roo
 
 
 <p align="center">
-    <span>es605@cam.ac.uk</span> &bull; 2015 &#150; 2016
+    <span>sliwinski.eric@orange.fr</span> &bull; 2015 &#150; 2018
 </p>
