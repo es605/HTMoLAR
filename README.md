@@ -1,7 +1,7 @@
 <h1>HTMoL &#150; AR plugin</h1>
 
 <br>
-&emsp; <b>HTMoL &#150; AR plugin</b> is an initiative from <a href=https://www.researchgate.net/profile/Eric_Sliwinski target=&quot;_blank&quot;><strong>Eric P. Sliwinski</strong></a>, <a href=http://www.leygroup.ch.cam.ac.uk/group-members/postdoctoral-research-associates-2/dr-mikhail-kabeshov target=&quot;_blank&quot;><strong>Mikhail A. Kabeshov</strong></a> and <a href=http://www.leygroup.ch.cam.ac.uk/steve-ley target=&quot;_blank&quot;><strong>Steven V. Ley</strong></a> for the web-based visualisation, analysis and report of computed structures or crystallographic data.
+&emsp; <b>HTMoL &#150; AR plugin</b> is an initiative from <a href=https://www.researchgate.net/profile/Eric_Sliwinski target=&quot;_blank&quot;><strong>Eric P. Sliwinski</strong></a>, <a href=https://www.researchgate.net/profile/Mikhail_Kabeshov target=&quot;_blank&quot;><strong>Mikhail A. Kabeshov</strong></a> and <a href=http://www.leygroup.ch.cam.ac.uk/steve-ley target=&quot;_blank&quot;><strong>Steven V. Ley</strong></a> for the web-based visualisation, analysis and report of computed structures or crystallographic data.
 
 <br>
 
